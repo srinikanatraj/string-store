@@ -29,4 +29,4 @@ This project is ideal for **students and beginners** learning front-end web deve
 ---
 
 ## 📂 Project Structure
-
+Output:https://srinikanatraj.github.io/string-store/
